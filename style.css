@@ -5,6 +5,9 @@ body {
 .container {
   padding-top: 30px;
 } 
+.container img {
+  width: 400px;
+}
   
 h1 {
   color: #fff;
@@ -48,6 +51,7 @@ form {
   background-color: #676264;
   padding: 20px 80px;
   margin: 0 auto;
+  margin-bottom: 75px;
   border-radius: 20px;
   box-shadow: 0 6px #2E282A;
 }
